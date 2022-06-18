@@ -1,0 +1,35 @@
+/* Navbar */
+.search{
+    margin-left: 670px;
+  }
+  .sb{
+    margin-left: 3px;
+  }
+  .navbar-brand{
+    font-family: "Ubuntu";
+  }
+.navbar{
+    margin-bottom: 10rem;
+}
+/* body */
+body {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.Date{
+    padding-top: 2px;
+}
+.aslot{
+    position: absolute;
+    margin-top: 7rem;
+}
+.times{
+    position: absolute;
+    margin-top:16rem;
+}
+.slots{
+    margin-top: 10rem;
+}

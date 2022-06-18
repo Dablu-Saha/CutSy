@@ -1,0 +1,36 @@
+/* Body */
+.mons{
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+/* NavBar */
+.search{
+  margin-left: 650px;
+}
+.sb{
+  margin-left: 3px;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+}
+/* Location */
+.location{
+  margin-top:4rem;
+  margin-left: .5rem;
+}
+/* Cards */
+.price{
+  /* margin-top: 4rem; */
+  margin-left: .5rem;
+  margin-bottom: 1rem;
+  /* margin-right: auto; */
+}
+.cbd{
+  background-color:  #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+.dp{
+  height: 175px;
+}

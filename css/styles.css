@@ -1,3 +1,14 @@
+
+h3,h2{
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+p{
+  color: #8f8f8f;
+}
+
 #title{
   background-color: #ff4c68;
 }
@@ -13,19 +24,7 @@
   font-family:"Montserrat";
 
 }
-h3{
-  font-family: "Montserrat";
-  font-weight: 600;
-}
-h2{
-  font-family: "Montserrat";
-  font-weight: 600;
-  font-size: 3rem;
-  line-height: 1.5;
-}
-p{
-  color: #8f8f8f;
-}
+
 .container-fluid{
   padding: 10% 10%;
   padding-bottom: 4.5rem;
@@ -124,9 +123,11 @@ p{
   text-align: center;
 }
 .action-text{
-  padding: 3% 15%;
-
-  /* padding-left: 5rem; */
+  padding: 3% 15% 0 15%;
+  margin-bottom: 0;
+}
+.mg0{
+  margin-bottom: 0;
 }
 .mgb{
   margin-top: 1rem;
